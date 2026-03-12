@@ -10,4 +10,4 @@
 - 💬 Ask me about **LLMs, AI Chatbots, Computer Vision, Python Backends**  
 - 📫 Reach me at **mabdur.rahman1348@gmail.com**  
 - 📄 LinkedIn: [linkedin.com/in/mabdurrahman1348](https://www.linkedin.com/in/mabdurrahman1348/)
-- Portfolio : portfolio_mabdurrahman](https://portfolio-abd-taupe.vercel.app/)
+- Portfolio : [portfolio_mabdurrahman](https://portfolio-abd-taupe.vercel.app/)
