@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Abdurrahman</h1>
 <h3 align="center">AI Engineer | End-to-End AI Systems • LLMs • Computer Vision</h3>
 
-- 🔹 AI Engineer at **Tafsol Technologies**, delivering production-grade AI solutions  
+- 🔹 AI Engineer, delivering production-grade AI solutions  
 - 🔹 Experienced in **LLM-based chatbots, AI fine-tuning, computer vision, and backend APIs**  
 - 🔹 Built **end-to-end AI systems** from data ingestion to deployment  
 - 🔹 Strong in **Python, FastAPI, PyTorch, OpenCV, and LLM integrations**  
